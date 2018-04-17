@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TallerCelulares</string>
+    <string name="marca">Brand</string>
+    <string name="precio">Price</string>
+    <string name="color">Color</string>
+    <string name="limpiar">Clean</string>
+    <string name="celulares_apple">No. Black Nokia Cellphone</string>
+    <string name="precio_promedio">Average price Nokia Cellphone</string>
+    <string name="listar">List</string>
+    <string name="reporte4">Summary4</string>
+    <string name="reporte5">Summary5</string>
+    <string name="apple">Apple</string>
+    <string name="nokia">Nokia</string>
+    <string name="motorola">Motorola</string>
+    <string name="negro">Negro</string>
+    <string name="blanco">Blanco</string>
+    <string name="dorado">Dorado</string>
+    <string name="error_precio">Type price</string>
+    <string name="guardar">Save</string>
+</resources>

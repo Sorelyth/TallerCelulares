@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">TallerCelulares</string>
+    <string name="marca">Marca</string>
+    <string name="precio">Precio</string>
+    <string name="color">Color</string>
+    <string name="guardar">Guardar</string>
+    <string name="limpiar">Limpiar</string>
+    <string name="celulares_apple">No. Celulares marca Apple Negro</string>
+    <string name="precio_promedio">Precio promedio Celulares Nokia</string>
+    <string name="listar">Listar</string>
+    <string name="reporte4">Reporte4</string>
+    <string name="reporte5">Reporte5</string>
+    <string name="apple">Apple</string>
+    <string name="nokia">Nokia</string>
+    <string name="motorola">Motorola</string>
+    <string name="negro">Negro</string>
+    <string name="blanco">Blanco</string>
+    <string name="dorado">Dorado</string>
+    <string name="error_precio">Digite Precio</string>
+    <string name="mensaje_guardado">Celular agregado correctamente</string>
+
+
+
+    <string-array name="main">
+        <item>@string/guardar</item>
+        <item>@string/listar</item>
+        <item>@string/reporte4</item>
+        <item>@string/reporte5</item>
+    </string-array>
+
+    <string-array name="marcas">
+        <item>@string/apple</item>
+        <item>@string/nokia</item>
+        <item>@string/motorola</item>
+    </string-array>
+
+    <string-array name="colores">
+        <item>@string/negro</item>
+        <item>@string/dorado</item>
+        <item>@string/blanco</item>
+    </string-array>
+
+</resources>
