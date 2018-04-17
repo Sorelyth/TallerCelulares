@@ -50,7 +50,6 @@ public class Registrar extends AppCompatActivity {
         marca.setSelection(0);
         color.setSelection(0);
         precio.setText("");
-
     }
 
     public void limpiar(View v){

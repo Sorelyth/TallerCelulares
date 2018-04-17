@@ -18,4 +18,5 @@
     <string name="dorado">Dorado</string>
     <string name="error_precio">Type price</string>
     <string name="guardar">Save</string>
+    <string name="mensaje_guardado">Cellphone correctly added</string>
 </resources>
